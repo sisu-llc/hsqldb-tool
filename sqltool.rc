@@ -1,0 +1,4 @@
+urlid store
+driver org.hsqldb.jdbcDriver
+url jdbc:hsqldb:file:./data-store/store/db
+username SA
